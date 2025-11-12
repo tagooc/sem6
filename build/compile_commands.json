@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/sheband/sem6/build",
+  "command": "/usr/bin/clang++   -g -std=gnu++17 -o CMakeFiles/app.dir/main.cpp.o -c /Users/sheband/sem6/main.cpp",
+  "file": "/Users/sheband/sem6/main.cpp",
+  "output": "CMakeFiles/app.dir/main.cpp.o"
+}
+]
