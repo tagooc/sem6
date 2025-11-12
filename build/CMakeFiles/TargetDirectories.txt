@@ -1,3 +1,0 @@
-/Users/sheband/sem6/build/CMakeFiles/app.dir
-/Users/sheband/sem6/build/CMakeFiles/edit_cache.dir
-/Users/sheband/sem6/build/CMakeFiles/rebuild_cache.dir
